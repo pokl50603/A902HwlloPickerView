@@ -16,6 +16,7 @@
 		3C3235B028DEEB28002EAB9C /* A902HwlloPickerViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C3235AF28DEEB28002EAB9C /* A902HwlloPickerViewTests.swift */; };
 		3C3235BA28DEEB28002EAB9C /* A902HwlloPickerViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C3235B928DEEB28002EAB9C /* A902HwlloPickerViewUITests.swift */; };
 		3C3235BC28DEEB28002EAB9C /* A902HwlloPickerViewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C3235BB28DEEB28002EAB9C /* A902HwlloPickerViewUITestsLaunchTests.swift */; };
+		3C3235C928DEFE02002EAB9C /* Pagw2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C3235C828DEFE02002EAB9C /* Pagw2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3C3235B528DEEB28002EAB9C /* A902HwlloPickerViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = A902HwlloPickerViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C3235B928DEEB28002EAB9C /* A902HwlloPickerViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A902HwlloPickerViewUITests.swift; sourceTree = "<group>"; };
 		3C3235BB28DEEB28002EAB9C /* A902HwlloPickerViewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A902HwlloPickerViewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3C3235C828DEFE02002EAB9C /* Pagw2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pagw2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3C3235A128DEEB28002EAB9C /* Assets.xcassets */,
 				3C3235A328DEEB28002EAB9C /* LaunchScreen.storyboard */,
 				3C3235A628DEEB28002EAB9C /* Info.plist */,
+				3C3235C828DEFE02002EAB9C /* Pagw2ViewController.swift */,
 			);
 			path = A902HwlloPickerView;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C3235C928DEFE02002EAB9C /* Pagw2ViewController.swift in Sources */,
 				3C32359D28DEEB27002EAB9C /* ViewController.swift in Sources */,
 				3C32359928DEEB27002EAB9C /* AppDelegate.swift in Sources */,
 				3C32359B28DEEB27002EAB9C /* SceneDelegate.swift in Sources */,
